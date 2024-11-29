@@ -1,0 +1,8 @@
+pandas
+nltk
+yfinance
+praw
+scikit-learn
+matplotlib
+seaborn
+tensorflow
